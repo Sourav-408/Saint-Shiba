@@ -197,6 +197,9 @@
 .bg-- {
     background-color: #1D1A1A;
 }
+.bg-grey{
+    background-color: #121111;
+}
 
 .mr--50 {
     margin-left: -50px;
@@ -445,7 +448,7 @@ body {
     position: absolute;
     width: 6px;
     background-color: white;
-    top: 4%;
+    top: 3%;
     bottom: 21%;
     left: 50%;
     margin-left: -3px;
